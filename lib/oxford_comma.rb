@@ -1,7 +1,10 @@
 def oxford_comma(array)
   when l
     ""
-  when 
+  when 2 
+  array.join
+  when 3 
+    
   if array.length == 1
 array.join
 elsif array.length == 2

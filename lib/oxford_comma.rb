@@ -4,6 +4,6 @@ array.join
 elsif array.length == 2
 array.join(" and ")
 else array.length >= 3
-  array[0..2].join(", ") + ", and" array[3]
+  array[0..2].join(", ") + ", and" array.insert[3]
   end
 end

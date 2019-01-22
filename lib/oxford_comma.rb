@@ -6,6 +6,6 @@ def oxford_comma(array)
   array.join(" and ")
 end
 
-def oxford_comma(array)
-  array.sort
+def oxford_comma(array2)
+  array2.sort
 end

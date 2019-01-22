@@ -4,7 +4,7 @@ array.join
 elsif array.length == 2
 array.join(" and ")
 elsif array.length == 3
-  array.join[0..2](" and ")
+  array[0..2].join(",") + 
   end
   oxford_comma
 end

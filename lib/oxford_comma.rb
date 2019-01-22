@@ -1,5 +1,5 @@
 def oxford_comma(array)
-case.array  
+case.array.count
   when l
     ""
   when 2 

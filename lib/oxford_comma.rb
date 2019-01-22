@@ -7,5 +7,6 @@ def oxford_comma(array)
 end
 
 def oxford_comma(array2)
+  array2.split(",")
   array2.insert(3,", and")
 end

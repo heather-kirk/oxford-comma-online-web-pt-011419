@@ -6,5 +6,5 @@ array.join(" and ")
 elsif array.length == 3
   array.join(" and ")
   end
+  oxford_comma
 end
-oxford_comma
